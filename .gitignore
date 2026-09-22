@@ -1,0 +1,14 @@
+# Virtual environment
+app/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local runtime database
+database.sqlite
+
+# Env vars
+.env
